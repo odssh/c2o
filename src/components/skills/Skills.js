@@ -18,8 +18,8 @@ class Skills extends React.Component{
             {id: 3, title: 'JAVASCRIPT', percent: '75'},
             {id: 4, title: 'JQUERY', percent: '100'},
             {id: 5, title: 'REACTJS', percent: '25'},
-            {id: 6, title: 'PHP', percent: '50'},
-            {id: 7, title: 'UI & UX', percent: '75'},
+            {id: 6, title: 'python', percent: '80'},
+            {id: 7, title: 'UI & UX', percent: '60'},
             {id: 8, title: 'NODEJS', percent: '100'},
         ]
     }

@@ -16,23 +16,23 @@ class InfoList extends React.Component{
         allInfo: [
             {
                 infoTitle: 'Age',
-                infoValue: 23,
+                infoValue: 21,
             },
             {
                 infoTitle: 'Languages',
-                infoValue: 'English, Germany',
+                infoValue: 'English',
             },
             {
                 infoTitle: 'Nationality',
-                infoValue: 'American',
+                infoValue: 'Indian',
             },
             {
                 infoTitle: 'Address',
-                infoValue: '121 King Street, Melbourne, Victoria 3000, Australia',
+                infoValue: 'mohanpur, Nadia West Bengal',
             },
             {
                 infoTitle: 'Freelance',
-                infoValue: 'till March 25, 2013',
+                infoValue: 'Ongoing',
             },
         ]
     }

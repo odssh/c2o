@@ -16,8 +16,8 @@ class Experiences extends React.Component{
 
     state = {
         experiences: [
-            {id: 1, type: 'work', time: '2016 - Present', field: 'Frontend Web Developer', location: 'Space Company', description: 'Collaborate with creative and development teams on the execution of ideas.'},
-            {id: 2, type: 'education', time: '2013 - 2016', field: 'bachelor degree Computer', location: 'MIT', description: 'Collaborate with creative and development teams on the execution of ideas.'},
+            {id: 1, type: 'work', time: '2018 - Present', field: 'Full Stack Web Developer', location: 'Space Company', description: 'Collaborate with creative and development teams on the execution of ideas.'},
+            {id: 2, type: 'education', time: '2017-2022', field: 'BS-MS', location: 'IISER Kolkata', description: 'Collaborate with creative and development teams on the execution of ideas.'},
         ]
     }
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import AvatarPortfolio from './../../images/avatar.png';
+import AvatarPortfolio from './../../images/avatar.jpg';
 import './Avatar.scss';
 
 const Avatar = (props) => (
